@@ -20,10 +20,16 @@ Download latest version [here](https://github.com/Dssdiego/Gravit_Android_UI_Kit
 - [X] Toast
 - [ ] SnackBar
 - [ ] Dialog
-- [ ] Button
+- [ ] Button 
 - [ ] Checkbox
 - [ ] Radio Button
 - [ ] Text Input
+- [ ] Progress Bar
+- [ ] Seek Bar
+- [ ] Toggle Button
+- [ ] Switch
+- [ ] Chips
+- [ ] Stepper
 - [ ] Navigation Drawer
 
 ### Version 1.1
