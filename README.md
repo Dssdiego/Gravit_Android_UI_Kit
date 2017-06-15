@@ -3,14 +3,47 @@ Material Design UI Kit for the Gravit Designer Software
 
 All the UI Kit is following the [Google Material Design Guidelines](https://material.io/guidelines/)
 
-Download [here](https://github.com/Dssdiego/Gravit_Android_UI_Kit/raw/master/Material%20Design%20Android%20UI%20Kit%20V_1.0.gvdesign)
+Download latest version [here](https://github.com/Dssdiego/Gravit_Android_UI_Kit/raw/master/Material%20Design%20Android%20UI%20Kit%20V_1.0.gvdesign)
 --------------------
 
 ## Features
 
-- Ready-to-use components (FAB, Navigation View, ToolBar, StatusBar, etc)
+### Roadmap
+
+- [X] FAB
+- [X] Bottom Naigation View
+- [X] ToolBar
+- [X] Status
+- [X] Guides
+- [X] Material Colors (Accent 200,500,700)
+- [X] Text (Caption, Toolbar, Toast)
+- [X] Toast
+- [ ] SnackBar
+- [ ] Dialog
+- [ ] Button
+- [ ] Checkbox
+- [ ] Radio Button
+- [ ] Text Input
+- [ ] Navigation Drawer
+
+### Version 1.1
+
+- Added Shadow to FAB
+- Added Shadow to ToolBar
+- Added Toast
+- Improved StatusBar
+
+### Version 1.0
+
+- FAB
+- Navigation View
+- ToolBar
+- StatusBar
 - Material Colors (200,500,700)
 - Guides 
+- Sample Screen
+- Caption Text
+- Toolbar Text
 
 ## How to Use
 
