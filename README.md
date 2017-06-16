@@ -18,10 +18,11 @@ Download latest version [here](https://github.com/Dssdiego/Gravit_Android_UI_Kit
 - [X] Material Colors Styles (Accent 200,500,700)
 - [X] Text Styles (Caption, Toolbar, Toast)
 - [X] Toast
-- [ ] SnackBar
+- [X] Checkbox
+- [X] SnackBar
+- [X] Device Buttons
 - [ ] Dialog
 - [ ] Button 
-- [ ] Checkbox
 - [ ] Radio Button
 - [ ] Text Input
 - [ ] Progress Bar
@@ -31,6 +32,13 @@ Download latest version [here](https://github.com/Dssdiego/Gravit_Android_UI_Kit
 - [ ] Chips
 - [ ] Stepper
 - [ ] Navigation Drawer
+
+### Version 1.2
+
+- Added Checkbox
+- Added Snackbar & Snackbar Texts
+- Added Device Buttons
+- Added Fab Variation (Open with 2 items)
 
 ### Version 1.1
 
