@@ -3,7 +3,7 @@ Material Design UI Kit for the Gravit Designer Software
 
 All the UI Kit is following the [Google Material Design Guidelines](https://material.io/guidelines/)
 
-Download latest version [here](http://bit.ly/2sk5adZ)
+Download latest version [here](http://bit.ly/2syr4dy)
 --------------------
 
 ## Features
@@ -21,7 +21,9 @@ Download latest version [here](http://bit.ly/2sk5adZ)
 - [X] Checkbox
 - [X] SnackBar
 - [X] Device Buttons
+- [X] Keyboard
 - [ ] Dialog
+- [ ] Cards
 - [ ] Button 
 - [ ] Radio Button
 - [ ] Text Input
@@ -32,6 +34,10 @@ Download latest version [here](http://bit.ly/2sk5adZ)
 - [ ] Chips
 - [ ] Stepper
 - [ ] Navigation Drawer
+
+### Version 1.3
+
+- Added Keyboard
 
 ### Version 1.2
 
